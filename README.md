@@ -18,6 +18,7 @@ Similarly, the CNN’s predictive capabilities were tied to training data densit
 
 ## Supplementary Material 
 
+• Graphical Abstract (GraphicalAbstract.pdf) <br />
 • Compression Test Video (Test_Prototype_1.mp4) <br />
 • Dataset (Images.zip, Images.z01, Images.z02)<br />
 • Code and Results for Hashin–Shtrikman Bounds (HS_bounds.m, HS_bounds.dat)<br />
