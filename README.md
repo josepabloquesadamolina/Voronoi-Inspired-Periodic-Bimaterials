@@ -15,5 +15,5 @@ Similarly, the CNN’s predictive capabilities were tied to training data densit
 
 ## Supplementary Material 
 
-• Compression test videos.<br />
+• Compression Test Videos.<br />
 • Dataset (Images and Target Values).<br />
