@@ -1,4 +1,4 @@
-# Navigating beyond the training set:A deep learning framework for inverse design of architected composite materials
+# Navigating beyond the training set: A deep learning framework for inverse design of architected composite materials
 
 
 
